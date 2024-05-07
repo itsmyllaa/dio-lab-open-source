@@ -92,4 +92,18 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 </a>
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+Problema ao acessar a pasta "community"
+
+Sugestões de melhorias:
+
+Implementação de Paginação:
+Em vez de exibir todos os arquivos de uma vez, o sistema poderia exibir apenas uma parte deles por página, permitindo que o usuário navegue pelas páginas para visualizar todo o conteúdo. Isso reduziria a carga no sistema e tornaria mais fácil para os usuários acessarem o conteúdo completo do repositório, mesmo em casos de grande volume de dados.
+
+Filtros de Busca Avançados:
+Outra melhoria seria a implementação de filtros de busca avançados, permitindo que os usuários refinassem sua pesquisa para encontrar os arquivos específicos que estão procurando. Isso poderia incluir filtros por data de modificação, tipo de arquivo, autor do commit, entre outros critérios relevantes.
+
+Explorador de Arquivos:
+O GitHub possui um explorador de arquivos que permite aos usuários visualizarem a estrutura de pastas do repositório e navegar entre os arquivos de forma hierárquica. Isso facilita a localização de arquivos específicos dentro do repositório.
+Visualização de Diferenças: Ao visualizar um arquivo, você pode ver as diferenças entre versões específicas do arquivo e até mesmo comparar entre branches diferentes. Isso é útil para entender as mudanças feitas ao longo do tempo e colaborar em projetos com outras pessoas.
+
+Essas funcionalidades ajudam a lidar com repositórios de diferentes tamanhos e facilitam a navegação e colaboração em projetos hospedados no GitHub.
